@@ -4,10 +4,10 @@
 This project implements a dual-axis solar tracking system using Arduino, Light Dependent Resistors (LDRs), and servo motors to automatically adjust the orientation of a solar panel, maximizing light absorption and improving energy efficiency by 20-30%.
 
 # Components
-Arduino (Uno/Nano)
-LDRs (4 sensors)
-Servo Motors (2 for dual-axis movement)
-Jumper Wires and Power Supply
+1) Arduino (Uno/Nano)
+2) LDRs (4 sensors)
+3) Servo Motors (2 for dual-axis movement)
+4) Jumper Wires and Power Supply
 
 # How It Works
 The system uses LDRs to sense light intensity from four directions (top-left, top-right, bottom-left, bottom-right).
